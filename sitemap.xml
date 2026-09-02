@@ -5,9 +5,4 @@
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
-<url>
-<loc>https://magfarul.vercel.app/</loc>
-<changefreq>monthly</changefreq>
-<priority>1</priority>
-</url>
 </urlset>
