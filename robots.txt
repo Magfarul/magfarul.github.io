@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /
 
-Sitemap: https://magfarul.github.io/sitemap.xml
+Sitemap: https://magfarul.vercel.app/sitemap.xml
